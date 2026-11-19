@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Ambiente
+.env
+
+# Dati locali
+data/documents/*
+!data/documents/.gitkeep
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+[
+  {
+    "question": "Esempio: qual è la durata della garanzia?",
+    "expected_answer": "24 mesi",
+    "source": "manuale.pdf, pagina 3"
+  }
+]
